@@ -12,8 +12,10 @@ c= c+1;
 ```
 # COURT DYNAMICS
 
-##Team The powerpuff girls
-###names
+## Team The powerpuff girls
+
+
+### names
 
 * Nedelcu Ioana-Miruna 313421- data cleaning  
 * Kovaleva Darya 322681  
